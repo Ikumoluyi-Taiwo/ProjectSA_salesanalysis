@@ -18,7 +18,7 @@ The main objectives of the project were to:
 
 ## Tools Used
 ### Microsoft SQL Server
-Used to: Create the PROJECTSA database, import and manage the AdventureWorks CSV datasets, write SQL queries to extract, aggregate and analyse the required data. Calculate sales, tax, freight, product cost and geographical performance metrics.
+Used to: Create the PROJECTSA database, import and manage the AdventureWorks CSV datasets, write SQL queries to extract, aggregate and analyse the required data. Calculate sales, tax, freight, product cost and geographical performance metrics. Created **VIEWS** containing key queries for reporting and visualisation.
 
 ### Microsoft Excel
 Used to: Import and organise the results of the SQL analysis, create charts and visualisations to communicate key findings, develop dashboards showing product, country and regional performance, present the analysis in an easy-to-understand format for decision-making.
