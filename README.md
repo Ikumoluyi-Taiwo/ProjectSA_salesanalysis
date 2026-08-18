@@ -46,7 +46,7 @@ CSV Files → SQL Server → Data Extraction & Analysis → Excel → Dashboard 
 5.	Imported the relevant query results into Excel for reporting and created charts and dashboards.
 7.	Presented the findings through product and geographical analysis.
 
-## Key Skills Demonstrated: 
+## Key Skills Demonstrated
 SQL data analysis, Data extraction and transformation, database management, data aggregation, microsoft excel, dashboard development, data Visualisation, KPI analysis, business reporting, analytical thinking.
 
 
