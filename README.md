@@ -19,9 +19,14 @@ The main objectives of the project were to:
 ## Tools Used
 ### Microsoft SQL Server
 Used to: Create the PROJECTSA database, import and manage the AdventureWorks CSV datasets, write SQL queries to extract, aggregate and analyse the required data. Calculate sales, tax, freight, product cost and geographical performance metrics. Created **VIEWS** containing key queries for reporting and visualisation.
+<p align="center">
+  <img width="1563" height="884" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/72bedd6d-543b-4e71-8293-97a3ba1cf31a" />
+  <img width="1579" height="890" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/86262c35-15e5-46dd-87c3-61cdd1448638" /> 
+<p align="center">
 
 ### Microsoft Excel
 Used to: Import and organise the results of the SQL analysis, create charts and visualisations to communicate key findings, develop dashboards showing product, country and regional performance, present the analysis in an easy-to-understand format for decision-making.
+<img width="1783" height="830" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/e1cdbb5d-a413-40b4-8bf5-6052be1502e6" />
 
 ## Data Analysis
 ### Product Performance Analysis
